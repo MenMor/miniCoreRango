@@ -1,0 +1,67 @@
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center; 
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+input[type="date"],
+select {
+    padding: 5px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    margin-left: auto; 
+    margin-right: auto; 
+}
+
+th,
+td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+p {
+    margin-top: 25px; 
+    margin-bottom: 0;
+    font-size: 20px;
+    text-align: right;
+    margin-right: 190px;
+    color: #333;
+}
+
+.no-ventas {
+    color: #f00;
+    font-style: italic;
+    text-align: center; 
+}
